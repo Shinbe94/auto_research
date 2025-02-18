@@ -1,1 +1,2 @@
-# coccoc_win_auto_research
+# coccoc_win
+For automation coccoc on windows

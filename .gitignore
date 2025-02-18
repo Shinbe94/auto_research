@@ -1,0 +1,15 @@
+venv
+.venv
+.pytest_cache
+.idea/
+*__pycache__/
+*pytest_cache
+.coverage
+pytest.ini
+WIN_*
+tests/test_attach_windows.py
+tests/sanity_test/test_win_app_driver.py
+tests/smoke_test/clicking_ads/ads.json
+tests/smoke_test/clicking_ads/books.json
+reports
+.vscode
